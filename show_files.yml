@@ -7,7 +7,7 @@ image_resource:
 
 inputs:
 - name: resource-tutorial
-- name: some-files
+
 
 run:
   path: resource-tutorial/show_files.sh

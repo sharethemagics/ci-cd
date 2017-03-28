@@ -9,7 +9,7 @@ inputs:
 - name: resource-tutorial
 
 outputs:
-- name: some-files
+- name: somes-files
 
 run:
   path: resource-tutorial/create_some_files.sh
